@@ -1,0 +1,13 @@
+/*
+   * "Stripe.Css" -Version 1.0.0-beta.1~- Css.
+　 * Dark colors scss file.
+   * The MIT License.
+   * Copyright hana.
+   * https://github.com/hana-mignon.
+*/
+
+.stripe-darken{
+   background-color: darken($bg-color,$bg-amount);
+   background-image:linear-gradient(360deg, rgba($bace-color,$transparent-first ) $amount, rgba($bace-color, $transparent-second) $amount),linear-gradient(-360deg, rgba($bace-color, $transparent-first) $amount,rgba($bace-color, $transparent-second) $amount);
+   background-size: $bg-size $bg-size;
+ }

@@ -1,0 +1,9 @@
+/*
+  * "Stripe.Css" -Version 1.0.0-beta.1~- Css.
+  * Min css file.
+  * The MIT License.
+  * Copyright hana.
+  * https://github.com/hana-mignon.
+*/  
+
+.stripe { background-color: white; background-image: linear-gradient(360deg, rgba(255, 192, 203, 0.3) 50%, rgba(255, 192, 203, 0.6) 50%), linear-gradient(-360deg, rgba(255, 192, 203, 0.3) 50%, rgba(255, 192, 203, 0.6) 50%); background-size: 50px 50px;} .stripe-darken { background-color: gray; background-image: linear-gradient(360deg, rgba(255, 192, 203, 0.3) 50%, rgba(255, 192, 203, 0.6) 50%), linear-gradient(-360deg, rgba(255, 192, 203, 0.3) 50%, rgba(255, 192, 203, 0.6) 50%); background-size: 50px 50px;}
