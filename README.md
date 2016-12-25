@@ -6,7 +6,7 @@
 
 ### Class name
 
-`Stripe` (Default),  `Stripe-darken` (Dark Color)
+`stripe` (Default),  `stripe-darken` (Dark Color)
 
 ## :pushpin: Usage
 
